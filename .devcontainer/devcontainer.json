@@ -8,6 +8,7 @@
 				"python.selectInterpreter": "/opt/python-3.11-dev/bin/python3"
 			},
 			"extensions": [
+				"linkedinlearning.linkedinlearning-vscode-theme",
 				// Container
 				"ms-azuretools.vscode-docker",
 				"ms-vscode-remote.remote-containers",
