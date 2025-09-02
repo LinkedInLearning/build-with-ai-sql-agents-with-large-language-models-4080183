@@ -3,7 +3,7 @@
   "editor.cursorBlinking": "solid",
   "editor.fontFamily": "ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono', 'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro', 'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace",
   "editor.fontLigatures": false,
-  "editor.fontSize": 22,
+  "editor.fontSize": 14,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.lineNumbers": "on",
@@ -18,20 +18,7 @@
   "workbench.colorTheme": "LinkedIn Learning Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
-  "sqltools.connections": [
-    {
-      "mysqlOptions": {
-        "authProtocol": "default"
-      },
-      "previewLimit": 50,
-      "server": "127.0.0.1",
-      "port": 3306,
-      "driver": "MariaDB",
-      "name": "MariaDB Database",
-      "database": "mariadb",
-      "username": "mariadb",
-      "password": "mariadb"
-    }
-  ],
-  "sqltools.useNodeRuntime": true
+  "cSpell.words": [
+    "megawatthours"
+  ]
 }
