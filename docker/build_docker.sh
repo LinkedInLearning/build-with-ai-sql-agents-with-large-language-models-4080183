@@ -2,7 +2,7 @@
 
 # Image settings
 user_name=rkrispin
-image_label=sql-to-lang
+image_label=lang-to-sql
 image_tag=0.0.1
 quarto_ver="1.7.33"
 python_ver=3.11
