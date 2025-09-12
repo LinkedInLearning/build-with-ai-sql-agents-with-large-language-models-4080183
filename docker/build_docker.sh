@@ -18,15 +18,16 @@ else
     CPU="amd64"
 fi
 
-tag="$CPU.$image_tag"
+tag="$image_tag"
 image_name="rkrispin/$image_label:$tag"
 
 
 
 echo "Build the docker"
 
-docker build . -f $dockerfile \
+docker buildx build . -f $dockerfile \
                 --progress=plain \
+                --platform linux/amd64,linux/arm64 \
                 --build-arg QUARTO_VER=$quarto_ver \
                 --build-arg VENV_NAME=$venv_name \
                 --build-arg PYTHON_VER=$python_ver \
