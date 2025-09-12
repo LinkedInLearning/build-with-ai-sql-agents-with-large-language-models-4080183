@@ -18,8 +18,7 @@ COPY install_quarto.sh install_dependencies.sh install_uv.sh requirements.txt se
 # Install dependencies and set zsh
 RUN bash ./settings/install_dependencies.sh
 # Install Quarto
-RUN echo ""
-RUN bash ./settings/install_quarto.sh $QUARTO_VER
+# RUN bash ./settings/install_quarto.sh $QUARTO_VER
 
 # Set Python environment
 RUN bash ./settings/install_uv.sh $VENV_NAME $PYTHON_VER $RUFF_VER
