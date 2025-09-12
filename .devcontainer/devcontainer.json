@@ -1,6 +1,6 @@
 {
 	"name": "python-dev",
-	"image": "rkrispin/lang-to-sql:arm64.0.0.1",
+	"image": "docker.io/rkrispin/lang-to-sql:0.0.1",
 	"customizations": {
 		"vscode": {
 			"settings": {
