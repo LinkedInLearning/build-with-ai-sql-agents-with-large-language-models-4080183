@@ -1,9 +1,9 @@
 # COURSENAME
 This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![lil-thumbnail-url]
-
 ## Course Description
+
+<p>In this course, learn how AI SQL agents work and how to build an agent from scratch. Get started with the general architecture of an SQL agent and then delve into its various components. Instructor Rami Krispin shows you how to design a prompt engine and work with different LLM frameworks, such as OpenAI GPT 4.1, Google Gemini Flash 2.0, and Anthropic Cloud 4, using the Python client. Last but not least, Rami guides you through the essentials of building your own AI agent component from scratch using Python.</p><p>This course is integrated with GitHub Codespaces, an instant cloud development environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time—all while using a tool that you’ll likely encounter in the workplace. Check out the “Using GitHub Codespaces with this course” video to learn how to get started.</p>
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -23,12 +23,6 @@ To resolve this issue:
 	
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
 ## Instructor
 
