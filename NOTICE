@@ -5,7 +5,79 @@ Licensed under the LinkedIn Learning Exercise File License (the "License").
 See LICENSE in the project root for license information.
 
 ATTRIBUTIONS:
-[PLEASE PROVIDE ATTRIBUTIONS OR DELETE THIS AND THE ABOVE LINE “ATTRIBUTIONS”]
+
+duckdb
+[https://github.com/duckdb/duckdb](https://github.com/duckdb/duckdb)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+google-genai
+[https://github.com/googleapis/python-genai](https://github.com/googleapis/python-genai)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+------------------------------------------------------------------
+
+ollama
+[https://github.com/ollama/ollama-python](https://github.com/ollama/ollama-python)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+openai
+[https://github.com/openai/openai-python](https://github.com/openai/openai-python)
+License: Apache 2.0
+[http://www.apache.org/licenses/](http://www.apache.org/licenses/)
+------------------------------------------------------------------
+
+pandas
+[https://github.com/pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+License: BSD-2-Clause AND BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+numpy
+[https://github.com/numpy/numpy](https://github.com/numpy/numpy)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+anthropic
+[https://github.com/anthropics/anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+pointblank
+
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+plotly-express
+[https://github.com/plotly/plotly_express](https://github.com/plotly/plotly_express)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+plotly
+[https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)
+License: MIT
+[https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+--------------------------------------------------------------------------
+
+jupyter
+[https://github.com/jupyter/jupyter](https://github.com/jupyter/jupyter)
+License: BSD-2-Clause AND BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
+ipywidgets
+[https://github.com/jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets)
+License: BSD-3-Clause
+[https://opensource.org/licenses/BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+--------------------------------------------------------------------------------------------
+
 
 Please note, this project may automatically load third party code from external 
 repositories (for example, NPM modules, Composer packages, or other dependencies). 
